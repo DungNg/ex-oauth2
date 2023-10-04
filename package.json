@@ -1,0 +1,17 @@
+{
+  "name": "ex-oauth2",
+  "version": "1.0.0",
+  "description": "learn how to create oauth2 server",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "keywords": [
+    "oauth2"
+  ],
+  "author": "Dung",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
